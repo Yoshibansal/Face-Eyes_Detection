@@ -2,7 +2,7 @@
 
 Detect the face and the eyes from the picture.
 
-Step 1: Download the follwing files form the repositories:
+Step 1: Download the follwing files form the repository:
 
            1. haarcascade_eye.xml
            
