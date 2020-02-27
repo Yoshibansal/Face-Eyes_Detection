@@ -19,6 +19,7 @@ Step 4: Run the code cell by cell.
 Step 5: For doing the same thing with your picture. You can upload it in colab and just just change the path.
 
 Step 6: Inside the Home directory in colab you will find the folders and the desired images.
+<img width="1206" alt="Screen Shot 2020-02-27 at 2 27 50 pm" src="https://user-images.githubusercontent.com/56353404/75428668-90de8c00-596e-11ea-8193-0988e4eee350.png">
 
 Congratulations! You can now detect the face along with eyes from the picture of your choice. 
 
